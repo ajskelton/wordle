@@ -4951,3 +4951,13 @@ Scoredle 4/6*
 
 METRO
 
+# 23-04-27
+Scoredle 4/6*
+
+14,855
+🟨🟨⬛⬛⬛ OCEAN (271)
+🟨🟩⬛⬛⬛ COURT (43)
+⬛🟩⬛🟨⬛ POOCH (18)
+🟩🟩🟩🟩🟩 LOGIC
+
+LOGIC
