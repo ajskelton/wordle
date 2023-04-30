@@ -4951,7 +4951,7 @@ Scoredle 4/6*
 
 METRO
 
-# 23-04-27
+# 23-04-28
 Scoredle 4/6*
 
 14,855
@@ -4962,7 +4962,7 @@ Scoredle 4/6*
 
 LOGIC
 
-# 23-04-28
+# 23-04-29
 Scoredle 3/6*
 
 14,855
@@ -4971,3 +4971,15 @@ Scoredle 3/6*
 🟩🟩🟩🟩🟩 CEDAR
 
 CEDAR
+
+# 23-04-30
+
+Scoredle 4/6*
+
+14,855
+⬛🟨🟩⬛⬛ SPANK (69)
+🟩🟩🟩⬛⬛ PLAID (9)
+🟩🟩🟩⬛⬛ PLATE (4)
+🟩🟩🟩🟩🟩 PLAZA
+
+PLAZA
