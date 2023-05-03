@@ -4951,7 +4951,7 @@ Scoredle 4/6*
 
 METRO
 
-# 23-04-28
+# 23-04-27
 Scoredle 4/6*
 
 14,855
@@ -4961,6 +4961,17 @@ Scoredle 4/6*
 🟩🟩🟩🟩🟩 LOGIC
 
 LOGIC
+
+# 23-04-28
+Scoredle 4/6*
+
+14,855
+⬛🟨🟨🟨⬛ BRAIN (122)
+⬛🟨🟨🟨⬛ FAIRY (42)
+🟩🟩⬛🟨🟨 CIGAR (1)
+🟩🟩🟩🟩🟩 CIRCA
+
+CIRCA
 
 # 23-04-29
 Scoredle 3/6*
