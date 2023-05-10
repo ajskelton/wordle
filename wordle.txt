@@ -5039,4 +5039,59 @@ Scoredle 4/6*
 
 GUPPY
 
+# 23-05-05
+Scoredle 5/6
+
+14,855
+⬛⬛⬛⬛🟨 SHINE (1,362)
+⬛⬛🟨⬛⬛ TREAD (118)
+⬛🟨🟩🟨⬛ FOLEY (6)
+⬛🟩🟩⬛⬛ VELUM (5)
+🟩🟩🟩🟩🟩 BELOW
+
+BELOW
+
+# 23-05-06
+Scoredle 3/6*
+
+14,855
+🟩⬛⬛⬛⬛ ABOUT (416)
+🟩⬛⬛🟨🟨 ALIGN (4)
+🟩🟩🟩🟩🟩 ANGER
+
+ANGER
+
+# 23-05-07
+Scoredle 4/6*
+
+14,855
+⬛🟨⬛⬛⬛ NOISE (464)
+⬛🟨🟩🟩⬛ CLOUD (3)
+⬛⬛🟩🟩🟩 AFOUL (2)
+🟩🟩🟩🟩🟩 GHOUL
+
+GHOUL
+
+# 23-05-08
+Scoredle 5/6*
+
+14,855
+⬛🟨⬛⬛⬛ ROUND (758)
+⬛⬛🟨⬛⬛ CHOSE (93)
+⬛⬛🟩🟩⬛ PILOT (8)
+🟩⬛🟩🟩⬛ ALLOY (4)
+🟩🟩🟩🟩🟩 AGLOW
+
+AGLOW
+
+# 23-05-09
+Scoredle 4/6*
+
+14,855
+⬛⬛🟨⬛⬛ TRAIL (1,446)
+🟩🟨⬛⬛⬛ CANDY (15)
+🟩⬛⬛🟨⬛ CHEAP (3)
+🟩🟩🟩🟩🟩 COCOA
+
+COCOA
 
